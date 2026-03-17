@@ -5,7 +5,6 @@ Bu depo, temel kullanıcı kayıt ve giriş işlemlerini gerçekleştiren bir ya
 ## Özellikler
 - Kullanıcı kaydı oluşturma
 - Giriş doğrulama
-- Veri saklama (Dosya tabanlı)
 
 ## Lisans Durumu
 **Dikkat:** Bu projede henüz bir **lisans güncellemesi bulunmamaktadır.** Tüm hakları saklıdır veya ilerleyen dönemlerde uygun bir açık kaynak lisansı eklenecektir.
