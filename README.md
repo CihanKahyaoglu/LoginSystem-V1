@@ -7,7 +7,7 @@ Bu depo, temel kullanıcı kayıt ve giriş işlemlerini gerçekleştiren bir ya
 - Giriş doğrulama
 
 ## Lisans Durumu
-**Dikkat:** Bu projede henüz bir **lisans güncellemesi bulunmamaktadır.** Tüm hakları saklıdır veya ilerleyen dönemlerde uygun bir açık kaynak lisansı eklenecektir.
+**Dikkat:** Dilediğiniz şekilde kullanabilirsiniz, referans belirtmek yeterlidir.
 
 ## Karşılaşılan Sorunlar
 Şu an için "kayıt başarılı olsa da yeniden başlatma sonrası giriş yapamama" üzerine hata ayıklama süreci devam etmektedir.
