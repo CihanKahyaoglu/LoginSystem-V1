@@ -7,7 +7,7 @@ Bu depo, temel kullanıcı kayıt ve giriş işlemlerini gerçekleştiren bir ya
 - Giriş doğrulama
 
 ## Lisans Durumu
-**Dikkat:** Dilediğiniz şekilde kullanabilirsiniz, referans belirtmek yeterlidir.
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## Karşılaşılan Sorunlar
 Şu an için "kayıt başarılı olsa da yeniden başlatma sonrası giriş yapamama" üzerine hata ayıklama süreci devam etmektedir.
